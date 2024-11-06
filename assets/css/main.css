@@ -560,6 +560,7 @@ section,
   scroll-margin-top: 77px;
   overflow: clip;
   text-align: center;
+  height: 400px;
 
 
 }
@@ -1079,7 +1080,7 @@ section,
 }
 
 #comingsoon{
-  width: 500px;
+  width: 480px;
   border-radius: 20px;
 }
 
