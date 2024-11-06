@@ -1088,3 +1088,21 @@ section,
   border-radius: 15px;
   height: 50px;
 }
+
+.pc-only{
+  display: block;
+}
+
+.cel-only {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .pc-only {
+    display: none;
+  }
+  
+  .cel-only {
+    display: block;
+  }
+}
