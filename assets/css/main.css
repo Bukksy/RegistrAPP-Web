@@ -1095,6 +1095,7 @@ section,
 
 .cel-only {
   display: none;
+  width: 600px;
 }
 
 @media (max-width: 768px) {
@@ -1104,7 +1105,6 @@ section,
   
   .cel-only {
     display: block;
-    width: 500px;
-    border-radius: 20px;
+    width: 600px;
   }
 }
